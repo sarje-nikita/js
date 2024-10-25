@@ -1,0 +1,15 @@
+const accoundId=14456
+let accoundEmainl="nikitasarje2000@gmail.com"
+var accoundPassword
+console.log(typeof accoundId)
+console.table([accoundEmainl,accoundId])
+
+let student = {
+    name : 'nikita',
+    age:23
+} 
+
+console.log(student);
+const array=["nikita","bikita"]
+array[1]="aniket";
+console.log(array);

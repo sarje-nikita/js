@@ -1,0 +1,14 @@
+//var globalVar="I am global";
+//function checkGlobal(){
+  //  console.log(globalVar);
+//}
+//checkGlobal();
+//console.log(globalVar);
+function greet() {
+    var message = "Hello!";
+    console.log(message); // Accessible inside the function
+  }
+  
+  greet(); // "Hello!"
+  console.log(message); // Error: message is not defined (function-scoped)
+  
