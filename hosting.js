@@ -14,4 +14,7 @@ let b=9
 // function hoisting
 //arrow function dose not get hoisted
 
+//regular function
+
+
 
